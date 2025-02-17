@@ -1,1 +1,1 @@
-📊 [Descargar FastFoodDB.pbix](https://github.com/tuusuario/repositorio/releases)
+📊 [Descargar Aerovista-Airways.pbix](https://github.com/AleGutierrez15/repositorio/releases)
